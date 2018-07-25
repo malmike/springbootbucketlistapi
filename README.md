@@ -1,8 +1,4 @@
 # BucketListAPI
-[![CircleCI](https://circleci.com/gh/malmike/springbootbucketlistapi.svg?style=svg)](https://circleci.com/gh/malmike/springbootbucketlistapi)
-[![Maintainability](https://api.codeclimate.com/v1/badges/5736184f6e0f60800344/maintainability)](https://codeclimate.com/github/malmike/springbootbucketlistapi/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/5736184f6e0f60800344/test_coverage)](https://codeclimate.com/github/malmike/springbootbucketlistapi/test_coverage)
-
 This is an API for a bucket list designed using spring boot
 
 ### Live demo
